@@ -9,7 +9,7 @@
 
 - 🌱 No momento, estou aprendendo **MySQL e React**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoorete&show_icons=true&locale=en&layout=compact" alt="matheusmoorete" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoorete&show_icons=true&locale=en&layout=compact" alt="matheusmoorete" /></p> -->
 
 
 
