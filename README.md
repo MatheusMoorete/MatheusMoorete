@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Matheus Morete</h1>
+<h1>Oi 👋, Eu sou o Matheus Morete</h1>
 <h3 align="center">Um estudante de Engenharia de Software apaixonado por tecnologia e com objetivo de ser um desenvolvedor Full-stack</h3>
  
  <br /> <!-- Adiciona uma linha em branco -->
